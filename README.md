@@ -15,6 +15,7 @@ This project presents a custom deep learning architecture for multiclass brain t
 - Grad-CAM Explainability
 
 ## Dataset
+dataset link: https://drive.google.com/file/d/1OPUSnue5Kj0jjgOnSmE4Cbzu9jYztZJG/view?usp=drive_link
 
 Classes:
 - Glioma
